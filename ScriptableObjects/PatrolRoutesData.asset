@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4bbc1947c0d754f4ab909a29c51975e8, type: 3}
+  m_Name: PatrolRoutesData
+  m_EditorClassIdentifier: 
+  patrolRoute01:
+  - {fileID: 8795300055918619231, guid: 9b50cb256df6784489d82c470c50bab7, type: 3}
+  - {fileID: 1910295307347309769, guid: e216b57868d70a045bf6f03445211756, type: 3}
+  - {fileID: 5425238414135794092, guid: 85bd51b0ea7e15242a829f29aeabd2a2, type: 3}
+  - {fileID: 2475666425585162160, guid: b66ceefd82a70214bb4d3a269b0ea78c, type: 3}
+  - {fileID: 5114477683487902552, guid: 956cb9a8b6c531143a3a659defdf3079, type: 3}
+  patrolRoute02: []
+  patrolRoute03: []
+  patrolRoute04: []
